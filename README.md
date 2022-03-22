@@ -1,6 +1,6 @@
 # odin-recipes
 The Odin Project: Foundations: Project - Recipes
 
-First HTML project using basic tags. <p> <h1> <img> <a> <ul> <ol>
+First HTML project using basic tags.
 Familiarisation with multiple linked pages and relative paths.
-Practice using basic git commands and writing good commit messages.
+Practice using basic git commands and writing commit messages.
